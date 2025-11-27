@@ -1290,7 +1290,3 @@ function process(item: number | string) {
 console.log(getItem(10));
 process("bilal");
 ```
-
----
-#   T y p e s c r i p t - D o m i n a t i o n - N o t e s  
- 
